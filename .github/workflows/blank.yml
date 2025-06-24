@@ -23,4 +23,4 @@ jobs:
           pwd
           env
       # Runs a single command using the runners shell
-      - run: echo Hallo, world!
+      - run: echo Hallo, Welt!
